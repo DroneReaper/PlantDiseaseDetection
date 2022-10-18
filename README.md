@@ -6,5 +6,6 @@ Code for the data exploration of the dataset is also included in this repository
 Dataset:
 
 Kaggle Link: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset?resource=download
+
 Google Drive Link: https://drive.google.com/drive/folders/13pCeUA-MB1YxiQ4exSU3mCQ_Gv-voeEZ?usp=sharing
 
